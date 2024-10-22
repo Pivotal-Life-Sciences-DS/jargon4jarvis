@@ -5,3 +5,4 @@ Feel free to contribute to the repository and push directly to main.
 
 ## Terms
 - I&I: Inflammation and Immunology 
+- PTS: Probably of Translational Success
