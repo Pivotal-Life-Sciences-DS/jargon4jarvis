@@ -10,8 +10,11 @@ Feel free to contribute to the repository and push directly to main.
 - CRM: Customer Relationship Management
 - EDGAR: Electronic Data Gathering Analysis and Retrieval System
 - FMP: Financial Modeling Prep - informs you about stock market information for publicly traded companies
+- IRR: Internal Rate of Return
 - PIPE: Private Investment in Public Equity - publicly traded company sells shares to private investors
 - VDR: Virtual Data Room
 
 ## Terms
 - "Depressed": Stock price is trading at a much lower value than its potential worth
+- "Syndicate": group of investors that pool capital to invest in deals together
+- "Tranche": split investments into parts giving money to businesses over time

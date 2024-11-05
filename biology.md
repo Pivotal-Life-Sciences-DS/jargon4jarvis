@@ -9,5 +9,8 @@ Feel free to contribute to the repository and push directly to main.
 - GSRS: Global Substance Registration System
 - HPA: Human Protein Atlas
 - I&I: Inflammation and Immunology 
+- ICD10: International Classification of Diseases, revision 10
+- LAND: Lipidated Antibody Nanoparticle Delivery
 - PP: Pharma Projects
 - PTS: Probably of Translational Success
+- SNOMED: Systematized Nomenclature of Medicine
