@@ -10,7 +10,9 @@ Feel free to contribute to the repository and push directly to main.
 - CRM: Customer Relationship Management
 - EDGAR: Electronic Data Gathering Analysis and Retrieval System
 - FMP: Financial Modeling Prep - informs you about stock market information for publicly traded companies
+- GP: General Partner - manager of a venture fund
 - IRR: Internal Rate of Return
+- LTM : Last 12 Months
 - PIPE: Private Investment in Public Equity - publicly traded company sells shares to private investors
 - VDR: Virtual Data Room
 
