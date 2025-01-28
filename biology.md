@@ -12,6 +12,7 @@ Feel free to contribute to the repository and push directly to main.
 - I&I: Inflammation and Immunology 
 - ICD10: International Classification of Diseases, revision 10
 - LAND: Lipidated Antibody Nanoparticle Delivery
+- PDUFA: Prescription Drug User Fee Act
 - PP: Pharma Projects
 - PTS: Probably of Translational Success
 - SNOMED: Systematized Nomenclature of Medicine
