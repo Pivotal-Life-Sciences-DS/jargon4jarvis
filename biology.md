@@ -14,8 +14,9 @@ Feel free to contribute to the repository and push directly to main.
 - ICD10: International Classification of Diseases, revision 10
 - LAND: Lipidated Antibody Nanoparticle Delivery
 - PDUFA: Prescription Drug User Fee Act
+- PDUFA date: the date that FDA is due to make a decision to approve or not approve a new drug
 - PP: Pharma Projects
-- PTS: Probably of Translational Success
+- PTS: Percentage of Transitional Success (percentage of drugs that move from one stage to the next)
 - SNOMED: Systematized Nomenclature of Medicine
 
 - Composite endpoint: single outcome that combines multiple events of interest
