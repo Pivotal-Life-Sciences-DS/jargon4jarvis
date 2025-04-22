@@ -5,6 +5,7 @@ Feel free to contribute to the repository and push directly to main.
 
 ## Terms
 - AACT: Public database of protocol and results of every study registered in ClinicalTrials.gov
+- API: Active Pharmaceutical Ingredient
 - BMT: BioMedTracker - platform that offers real-time analysis and tracknig of drug development and clinical trial events
 - CUI: Controlled Unclassified Information
 - GSRS: Global Substance Registration System
