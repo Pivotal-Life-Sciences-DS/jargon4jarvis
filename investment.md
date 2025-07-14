@@ -20,6 +20,7 @@ Feel free to contribute to the repository and push directly to main.
 - PTE: Patent Term Extension - if product requires lengthy approval timelines, patent term can be extended to compensate for time spent waiting for approval
 - ROFN: Right of first negotiation - obligates seller to negotiate and reach agreement with holder of ROFN before negotiating w any other party.
 - ROFR: Right of first refusal - holder can match an offer made by a third party to purchase an asset, or refuse to match it and the seller can sell to third party. Good for interested parties who want the option to buy if other parties become interested in it
+- SPAC: Special Purpose Acquisition Company: purchasing shares in a company created solely to acquire or merge w a private company, taking it public
 - VDR: Virtual Data Room
 
 ## Terms
@@ -39,6 +40,7 @@ Feel free to contribute to the repository and push directly to main.
 - "Tranche": split investments into parts giving money to businesses over time
 - "Warrant coverage": investor receives warrants along with initial investment, giving them the right to purchase additional shares at a set price in the future
 - "Redemption selling": process by which shareholders can sel ltheir shares back to a company
+- "Reverse merger": private company acquires publicly traded company, making the private company public without going through typical IPO process
 
 - DSPAC 
 - Reverse inquiries
