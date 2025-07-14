@@ -21,6 +21,7 @@ Feel free to contribute to the repository and push directly to main.
 - SNOMED: Systematized Nomenclature of Medicine
 
 - Composite endpoint: single outcome that combines multiple events of interest
+- Natural history: observational study that tracks the progression of a disease over time in the absence of treatment or intervention
 - Net clinical benefit endpoint: endpoint that takes into account both the positive effects (benefits) and negative effects (harms) of a treatment
 - Thermogenic: drugs that produce heat through metabolic stimulation
 
