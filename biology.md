@@ -13,6 +13,7 @@ Feel free to contribute to the repository and push directly to main.
 - I&I: Inflammation and Immunology 
 - ICD10: International Classification of Diseases, revision 10
 - LAND: Lipidated Antibody Nanoparticle Delivery
+- OR: Operating-Room (i.e. OR-based procedure: an operating room based procedure)
 - PDUFA: Prescription Drug User Fee Act
 - PDUFA date: the date that FDA is due to make a decision to approve or not approve a new drug
 - PP: Pharma Projects
