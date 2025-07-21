@@ -31,6 +31,7 @@ Feel free to contribute to the repository and push directly to main.
 - "Depressed": Stock price is trading at a much lower value than its potential worth
 - "Earnout shares": assuming stock trades at certan range, we get more shares
 - "Financing overhang": potential dilution in the value of equity investments due to stock options pending conversion to equite shares.
+- "Going concern": during and beyondn the next fiscal period the company will complete its current plans, use its existing assets and continue to meet its financial obligations.
 - "Initiating coverage": a long report that is released when a firm starts covering stock for the first time
 - "Oversubscribed": More commitments to invest htna they planned to close on
 - "Pay-to-play" provision: term in a term sheet that inventivizes existing investors to participate in new financing round 
@@ -38,9 +39,10 @@ Feel free to contribute to the repository and push directly to main.
 - "Strategics": Big Pharma companies
 - "Syndicate": group of investors that pool capital to invest in deals together
 - "Tranche": split investments into parts giving money to businesses over time
-- "Warrant coverage": investor receives warrants along with initial investment, giving them the right to purchase additional shares at a set price in the future
 - "Redemption selling": process by which shareholders can sel ltheir shares back to a company
 - "Reverse merger": private company acquires publicly traded company, making the private company public without going through typical IPO process
+- "Wall-crossing": Sharing material non-public information with potential investors while ensuring they can't trade on that data
+- "Warrant coverage": investor receives warrants along with initial investment, giving them the right to purchase additional shares at a set price in the future
 
 - DSPAC 
 - Reverse inquiries
