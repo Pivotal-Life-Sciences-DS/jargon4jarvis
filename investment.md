@@ -28,6 +28,7 @@ Feel free to contribute to the repository and push directly to main.
 - "Broke issue":
 - "Capital call": allows funds to access committed capital as needed, rather htan requiring investors to provide the entire amount upfront.
 - "Consensus": average forecast of a group of analysts regarding a company's future financial performance
+- "Covenant": legally binding promise found in loan contracts that dictates limitations for borrower or issuer
 - "Depressed": Stock price is trading at a much lower value than its potential worth
 - "Earnout shares": assuming stock trades at certan range, we get more shares
 - "Financing overhang": potential dilution in the value of equity investments due to stock options pending conversion to equite shares.
