@@ -18,10 +18,12 @@ Feel free to contribute to the repository and push directly to main.
 - PDUFA date: the date that FDA is due to make a decision to approve or not approve a new drug
 - PP: Pharma Projects
 - PTS: Percentage of Transitional Success (percentage of drugs that move from one stage to the next)
+- REMS: Risk Evaluation and Mitigation Strategy: FDA puts this out for drugs that have severe side effects
 - SNOMED: Systematized Nomenclature of Medicine
 
 - Composite endpoint: single outcome that combines multiple events of interest
 - Natural history: observational study that tracks the progression of a disease over time in the absence of treatment or intervention
 - Net clinical benefit endpoint: endpoint that takes into account both the positive effects (benefits) and negative effects (harms) of a treatment
+- Open-Label: Both clinicians and patients know what is being administered (no one is blinded)
 - Thermogenic: drugs that produce heat through metabolic stimulation
 
